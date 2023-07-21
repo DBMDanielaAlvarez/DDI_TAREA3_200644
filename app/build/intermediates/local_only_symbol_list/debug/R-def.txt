@@ -1,0 +1,16 @@
+R_DEF: Internal format may change without notice
+local
+drawable sanji
+drawable tile_preview
+font oswaldwght
+font styles_font
+font ubuntu
+id textView
+layout activity_main
+mipmap ic_launcher
+string app_name
+string complication_label
+string hello_world
+string tile_label
+string title_activity_main
+string title_activity_presentation._main
